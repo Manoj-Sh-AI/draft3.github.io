@@ -1,0 +1,60 @@
+.collapse{
+    margin-right: 10%;
+}
+.nav-item{
+    margin-left: 7%;
+}
+.heading{
+    font-size: 60px;
+    font-family: 'Alfa Slab One', cursive;
+    color: white;
+}
+.lead{
+    color: white;
+    margin-top: 3.5%;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 18px;
+}
+.profile-img{
+    border-radius: 100%;
+}
+.profile-img-class{
+    margin-right: 5%;
+}
+.btn{
+    margin-top: 3.5%;
+}
+.logo{
+    font-family: 'Pacifico', cursive;
+}
+.education-h1{
+    font-size: 60px;
+    font-family: 'Alfa Slab One', cursive;
+    color: black;
+    margin-top: 3.5%;
+}
+.education-para{
+    margin: 50px 50px 50px 50px;
+    margin-right: 100px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 18px;
+}
+.education-img{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.background-para{
+    margin-top: 7%;
+    color: white;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.background-heading{
+    font-family: 'Alfa Slab One', cursive;
+    color: white;
+}
+.background-skills{
+    margin-top: 7%;
+    color: white;
+    margin-left: 150px;
+    font-family: 'Space Grotesk', sans-serif;
+}
